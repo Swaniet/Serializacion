@@ -1,0 +1,69 @@
+body{
+    background-color: #f7f1e3;
+}
+header{
+    background: #40407a;
+    font-family: Roboto;
+    font-size: 70px;
+    color: #ecf0f1;
+    margin: 5px;
+    padding: 20px;
+    text-align: center
+}
+
+a{
+    font-family: Roboto;
+}
+.formulario{
+    margin: 100px;
+
+}
+
+.form input[type=submit]{
+    background: #40407a;
+    color: #ecf0f1;
+    border-bottom: none;
+    padding: 10px;
+    margin-left: 250px;
+    margin-top: 30px;
+    width: 300px;
+    height: 100px;
+}
+
+
+.agregar{
+    
+    margin-left:400px;
+    margin-right: 400px;
+    align-items: center;
+    background-color: #d1ccc0;
+    padding: 15px;
+    font-size: 20px;
+    color: #2c2c54;
+    font-family: Roboto;
+}
+
+.datos{
+    padding: 10px;
+    margin-left: 250px;
+}
+
+input{
+    padding: 20px;
+    background-color: #f7f1e3;
+    border: none;
+    border-bottom: 3px solid #dfe6e9;
+    color: #2c2c54;
+}
+
+ textArea {
+    
+    min-height: 5px;
+    background-color: #f7f1e3;
+    border: none;
+    border-bottom: 3px solid #dfe6e9;
+    color: #2c2c54;
+}
+
+
+
